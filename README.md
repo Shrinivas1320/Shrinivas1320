@@ -2,7 +2,7 @@
 - 👀 I’m interested in web devlopment and to learn program
 - 🌱 I’m currently learning btech in computer science and engineering
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me https://www.linkedin.com/in/k-shrinivas-puranik-9514652b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FpVQEc38QK6oKRG1v7ViwQ%3D%3D
+- 📫 How to reach me https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BQ48h%2BT%2B6TeaIn6FyM2KUgw%3D%3D
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
